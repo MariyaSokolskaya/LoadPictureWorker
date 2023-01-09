@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadPictureWorker</string>
+    <string name="title_text">Загрузка картинок</string>
+    <string name="load_text">Загрузить</string>
+</resources>
